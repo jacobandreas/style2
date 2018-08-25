@@ -1,0 +1,1000 @@
+c c a a STOP
+a c STOP
+a a c c a a a c c STOP
+a a STOP
+a a c a c a STOP
+c STOP
+c STOP
+c c STOP
+c a a STOP
+c c a c a c a a STOP
+c c a c c a c a STOP
+a STOP
+a c c c c c STOP
+a a a a c STOP
+a STOP
+c a a a a a a a STOP
+c c a STOP
+a c c a c a STOP
+a STOP
+a a STOP
+a a a a c STOP
+a a c c c a a c a STOP
+c c c c a c c a STOP
+a a STOP
+a c a a a c STOP
+c a a a a c STOP
+a a a c c STOP
+a STOP
+a a c a a a STOP
+a a c a a a c c c STOP
+a STOP
+c c a a a a c STOP
+c a c a STOP
+c c c c c a c c a STOP
+c a c c c c a STOP
+a c c a a a c a STOP
+a STOP
+c c a c c a a a STOP
+a a STOP
+a c a a a c c a c STOP
+c a a STOP
+a c a c c a a c c STOP
+c c c c a c a a c STOP
+a a c a c STOP
+a c a c c STOP
+a c a c STOP
+c a a a a STOP
+c c c c c c a c STOP
+c a c c a a c STOP
+a STOP
+a c a c a c c a c STOP
+c a c a c c a c c c STOP
+a c c c a a a a a c STOP
+a c a c a a STOP
+c c c c STOP
+a c a c a a c STOP
+a a c c a c STOP
+c c c c a STOP
+a a c STOP
+c a a a c c a a a a STOP
+a a c a a a STOP
+a c c STOP
+c a a c a STOP
+a a STOP
+c a a a a a c a c c STOP
+a STOP
+a a c c STOP
+c a c c a a STOP
+a a c a a a STOP
+c a a a c a STOP
+c a a a c STOP
+a a STOP
+c c c a a c c c a a STOP
+a a a a a STOP
+a c c a a STOP
+c a a a STOP
+a a a c c c c STOP
+a a c a c c c a STOP
+c c a c a a c a c STOP
+c c c STOP
+a a c a a c a a STOP
+c c a c c a STOP
+c STOP
+a a a a STOP
+c c c a c a a a a STOP
+c a a a c c STOP
+c c c c a a a a a c STOP
+a a c c STOP
+a STOP
+a STOP
+c c c a STOP
+a a STOP
+a c STOP
+c c a a a a a a a c STOP
+c c a c a a a c c c STOP
+c c c STOP
+c a c c STOP
+c a a c a STOP
+a c c c STOP
+a a c c a a STOP
+c a c c a STOP
+c a a c a a a a STOP
+a c c a a STOP
+a a a STOP
+c c c a a c STOP
+a c STOP
+a a STOP
+a a c STOP
+c a a STOP
+a STOP
+a c a c c a c STOP
+c c c a a c a c a STOP
+a a a c a a a STOP
+a a STOP
+c c a c c a a a a STOP
+a a STOP
+a a c c c a STOP
+a c a STOP
+a STOP
+a a STOP
+c a a c a a STOP
+c a a c c a a a c c STOP
+c c a a a c c STOP
+a c c STOP
+a a c c a a a c a STOP
+c c STOP
+c a c c c a a STOP
+c c c a a c STOP
+a c c STOP
+c c a c c a c c c STOP
+a c c a a a c a STOP
+a c c a c c a a STOP
+a STOP
+c a a STOP
+c a c c a a a a STOP
+a STOP
+a a c c c a STOP
+c a c STOP
+c a a a a c a a STOP
+a a c a STOP
+a a a c a a a c STOP
+c STOP
+c a c c c c c STOP
+c a c c c c a a c a STOP
+c a a c STOP
+c c a STOP
+a a c c c c STOP
+c a c c a c STOP
+a a a a c a a c c c STOP
+c c a a a c c c c STOP
+a a a c STOP
+c c c a a c a a a a STOP
+c a c a c a a c a a STOP
+c a a c c c a c STOP
+c a c c a a STOP
+c c c c a c c a a STOP
+c c a STOP
+a STOP
+c a a c a c c STOP
+a a c STOP
+c c c a c STOP
+a a STOP
+a a a c c c c STOP
+a c a STOP
+a c a a a a a a c STOP
+c a c c a a c a STOP
+a a STOP
+a a c STOP
+a c STOP
+c a c a a c STOP
+c a c STOP
+c a c a c c c c c STOP
+c a a c a a c a c STOP
+a c a c a STOP
+c c c c a a STOP
+c STOP
+c c c a a a c c c STOP
+a c a c c c STOP
+c a c STOP
+c c c a a a c STOP
+a a c c STOP
+c a c c STOP
+a c a a c c c a STOP
+c c a a c STOP
+a c a c c a c a STOP
+c c c a c a STOP
+a a c a a a a STOP
+c c c c c a c a STOP
+c a c a STOP
+a c STOP
+c c STOP
+c a a c c a c STOP
+a c c STOP
+a c c c a a STOP
+c c c c STOP
+a a c c STOP
+a a c c c a c c STOP
+a c c a a STOP
+a c STOP
+a c a a a a STOP
+c a a STOP
+c a c STOP
+c c a c c c a a c STOP
+c c STOP
+a STOP
+c c a c c STOP
+a a c a c a c c c a STOP
+c c a c a a c a a STOP
+c STOP
+c a c c c c a STOP
+c c a a c a a STOP
+a c a a c a a STOP
+c c a c a a STOP
+a STOP
+c a a c a a a a STOP
+a a a c a c STOP
+a c a a a STOP
+a c STOP
+c a c a a STOP
+a a c a a c a c a STOP
+a c a c STOP
+a a a a c a a STOP
+a a a a a STOP
+c c c a STOP
+a c c STOP
+a a a a a c STOP
+c c a a a a c a c STOP
+c a c c c c STOP
+c c a a c c a STOP
+a c a a c a a c a a STOP
+c c a a c a a a STOP
+a c c a c c c STOP
+a a c a a STOP
+a STOP
+a a STOP
+a c c a a a c a STOP
+c STOP
+a a a a a a c c a STOP
+c c c a a a c a a STOP
+c c a STOP
+c a a c c c c c STOP
+c a a c c c a STOP
+a a a a a a STOP
+c c c c c a a STOP
+a a c c c c c a c c STOP
+a STOP
+c STOP
+a a a a a STOP
+c a c a c c c a a a STOP
+c c c a c c STOP
+c a c a a a c STOP
+c c a c a c c c c STOP
+c c c STOP
+a c c a a c a STOP
+c STOP
+c a c c a STOP
+a c a c a c c STOP
+c c c c c c c a c c STOP
+c c STOP
+c c STOP
+a c c a c c STOP
+a c a c STOP
+a a a c c c STOP
+c c c c STOP
+a a c c c c c a c a STOP
+a a a a a c c STOP
+c c c c a c a c a STOP
+a a a a a STOP
+a a a a c c a c STOP
+c a a a a c a c a c STOP
+c STOP
+c c STOP
+a c c c c a a c STOP
+c STOP
+a a c a c a a a a c STOP
+c c a a a c STOP
+a a c a c c a a c a STOP
+a c STOP
+c a c c c c a a c c STOP
+c c c a a a a a c a STOP
+a c c c a c c c c STOP
+a a a a STOP
+a c c a c STOP
+a c a c STOP
+c STOP
+c c STOP
+a a c c STOP
+a c c c a STOP
+c c c a c c STOP
+a c c a c c c STOP
+a c c a c a STOP
+c c c STOP
+c a a a a a a STOP
+a c a a c c a c a STOP
+c STOP
+a c a a c a a STOP
+a a c a STOP
+c a c STOP
+a a a c a c c c c STOP
+c c a a a a a c a a STOP
+c a c a c c a STOP
+c a c c STOP
+a a a a a a c a STOP
+a c c c a STOP
+c a c c c c c c c STOP
+a a a c c c c c a c STOP
+a c c c a c STOP
+c a a a a c a STOP
+c a c STOP
+a a c a STOP
+a STOP
+c c a a a a a STOP
+a c STOP
+a c STOP
+a a a a a STOP
+a c a a c a c STOP
+c STOP
+c c c STOP
+a a c a a c a c c STOP
+c a STOP
+c c a STOP
+a c c a a c STOP
+c STOP
+c c c a STOP
+a c STOP
+a a c c c STOP
+a a a a a c a a a a STOP
+c c c a a STOP
+a c STOP
+a a a c a c a c c STOP
+c STOP
+c STOP
+a a c c STOP
+c c c c STOP
+a a c STOP
+c a a a a a c c c a STOP
+a c a a c a c STOP
+a a a a c c a c STOP
+c c c a a STOP
+a c a a a STOP
+c c a a c a a c c c STOP
+c c a a a a c a a c STOP
+a c c a c c STOP
+a c a c c c c a STOP
+c STOP
+a a STOP
+a c a a c a c c a STOP
+c c a STOP
+a a a a c a a a c c STOP
+c c c a c a c c STOP
+c c c a a STOP
+c STOP
+a a a c STOP
+a a c c c c c STOP
+c a c c a a c a STOP
+c a STOP
+a STOP
+a c a a a a a STOP
+a a c c a a c c a a STOP
+c c a c a a c c STOP
+c a a a a a a STOP
+a a a a a c a c STOP
+c a a a c a STOP
+c c a a c c c c a c STOP
+a c a c c c STOP
+a c c STOP
+c c a c c c a c c STOP
+c a a a a STOP
+c c c STOP
+a c c a c STOP
+a a c c STOP
+a c STOP
+a c STOP
+c c STOP
+a a a c c STOP
+c a c STOP
+c a a c STOP
+c a c a c STOP
+a c c a a STOP
+c c a a c a c c STOP
+c a a c a STOP
+c c c a a a c STOP
+c a a a c a c STOP
+a c a c a c c STOP
+c c a STOP
+a a a c a a c a c STOP
+a c STOP
+a STOP
+c c a STOP
+a c c a a a a c a c STOP
+c c a STOP
+a c a c STOP
+c a STOP
+a c c a c a STOP
+a a a a c a STOP
+a a c c a a c c c a STOP
+c c a c c a a c a STOP
+c c STOP
+a c c c a a c STOP
+c c a a c a c a STOP
+c a c a a a c c c STOP
+a c c c a c c c STOP
+a c a a a a c STOP
+c a a c a STOP
+a a c c a c a c c c STOP
+c c a a STOP
+a c c c STOP
+c STOP
+c a c a c a STOP
+c a c c c a c c a a STOP
+c c c c a a a a c STOP
+a STOP
+c a a a c c c STOP
+c c a c STOP
+c a STOP
+c c c c STOP
+a c c a a c a c STOP
+a c c c a c a STOP
+c a c c STOP
+c c a STOP
+c a STOP
+c a a a c c a c c c STOP
+a a a c c a a c STOP
+a a a STOP
+a a c c c a a a c STOP
+a a a STOP
+c a a a c STOP
+a a c a a STOP
+c a STOP
+c a a c c a a a a STOP
+c c c STOP
+a a c a c c a STOP
+c c c a a a c STOP
+a c c c a c c a c c STOP
+c a a c a a a c STOP
+a a a a c STOP
+a a a c a c a c a c STOP
+c a c c c c c c c c STOP
+a a c c c c c a STOP
+a c c a c c STOP
+a a a c a c STOP
+c c c c c a a c a STOP
+a a a a c a c c STOP
+a a STOP
+a STOP
+c c a a STOP
+a c STOP
+c c STOP
+c a c c c a c a a c STOP
+a a a a a c c a a a STOP
+c c a c c a STOP
+a c a c STOP
+a a STOP
+a a c c a a a a STOP
+c c a c a a a a c c STOP
+c a a STOP
+a c c c c a c a a c STOP
+a c a a c a a c a STOP
+c c a c a a c a STOP
+a c c a c c STOP
+c a c STOP
+a c c c c STOP
+c a a a a STOP
+a a c c STOP
+c c c STOP
+a a c c c a a STOP
+a c c a STOP
+a a c a STOP
+c a a c a c a a a a STOP
+c c c a c STOP
+a c a a a c c a a a STOP
+c a a c c c STOP
+c a STOP
+a a a c c c a a c a STOP
+a c c a STOP
+c c STOP
+c a c c c a c c c STOP
+c a STOP
+a a a a c a a STOP
+c c a a c a a c a STOP
+a c c STOP
+c c c a STOP
+c c a a STOP
+a STOP
+c STOP
+a a a c a a a a STOP
+a c c c a c a c STOP
+c a STOP
+a c a c c c a c STOP
+c c a a c STOP
+c c a a c c c STOP
+a c STOP
+c a a a a a STOP
+a c a c a c c a c STOP
+a c c STOP
+a a a a a a a STOP
+a a a c STOP
+a a a c c c c a a a STOP
+a a c c a STOP
+a c c c a a a a STOP
+a c c c a c c STOP
+a c c a c a a a STOP
+c c c STOP
+c c STOP
+c a c a c a c a a a STOP
+c a c a a c STOP
+a c a c c a c c STOP
+a a c c STOP
+c a c STOP
+c a STOP
+c a a c a c STOP
+c a a a c a STOP
+a c c a a a c c STOP
+a a a a c a c STOP
+c c a STOP
+a c c STOP
+a a c STOP
+a a c c a c c STOP
+a STOP
+c a c a STOP
+c a a c c c STOP
+a c STOP
+a a a a c a a a STOP
+a a STOP
+c a c c STOP
+a c a c STOP
+c a a a c c c c c a STOP
+a c STOP
+c a a c a STOP
+a a c a a STOP
+a c a c a a a a a a STOP
+c c c c a STOP
+a c c c STOP
+c c c a a a STOP
+c c c c a STOP
+a c c STOP
+c a c a STOP
+c c a STOP
+a STOP
+c c a a STOP
+c a c c a c a c STOP
+c a a a c a c c c STOP
+a STOP
+a a c a a c STOP
+c a c STOP
+a a STOP
+a a a a c c STOP
+c c c STOP
+c a c c c STOP
+c c c a c c STOP
+c a a STOP
+a c c a c a a a STOP
+a c a c a c a c c STOP
+c a c a a c c a a c STOP
+c c a c a a a a c STOP
+c c a c a c a a STOP
+a a a a STOP
+c a a c c a a c a STOP
+a c c STOP
+a c c c a c STOP
+a STOP
+c STOP
+a c c c STOP
+c c c a a c c c a STOP
+c a c c c a c a STOP
+a c c c a a a STOP
+c a c c STOP
+a c c a c c c a a a STOP
+c a c a STOP
+c a c c c STOP
+a c STOP
+c c c a c STOP
+c STOP
+a a c c c c a a a c STOP
+a c c c a a STOP
+c c a a a STOP
+c a c a a c STOP
+a a a c a a c c STOP
+a c c a STOP
+a c c c STOP
+c c c c c a a a a STOP
+c a a a STOP
+c a c a c c c c c STOP
+a a c c c a c a STOP
+c a c c c STOP
+c c a STOP
+a a STOP
+c a c STOP
+c c c c a c a a c a STOP
+a c c a c STOP
+c STOP
+c STOP
+c a STOP
+c c a a a c a a c STOP
+c a a c c a c STOP
+c STOP
+a a c a STOP
+c a a c a STOP
+c c c a a c a c a c STOP
+c a c c c STOP
+a a c a STOP
+a a a a c c a c STOP
+c c c c c a c a c a STOP
+c a c a a a c c a STOP
+a a c a STOP
+c a c c a c a c c STOP
+c STOP
+a STOP
+c c c a STOP
+c c a a c a c STOP
+c a a a a c a STOP
+a c a a c c a a a STOP
+c c a a c c c a c STOP
+a c a c c a c a a a STOP
+a c a c a STOP
+a c STOP
+a a c c STOP
+c a a c STOP
+a a a a a a a c c a STOP
+c c c c c c a a c c STOP
+a a c c a c a a a a STOP
+c a c STOP
+a a STOP
+a c c a a a c c STOP
+a c c a STOP
+c STOP
+c c a a a STOP
+a c c a a c a a c c STOP
+a c a c c STOP
+c c c a c c STOP
+c c a c c a a a STOP
+c STOP
+a STOP
+a a c a STOP
+c a STOP
+a a STOP
+c a a a c c a a STOP
+c STOP
+a STOP
+c c STOP
+a a c a c a STOP
+c STOP
+c c a c a a a c STOP
+c c a a c a a a STOP
+a c c a c a c c a a STOP
+c c a a c c STOP
+c a c c a a c a c a STOP
+c c a c STOP
+a STOP
+a c c a c a a STOP
+c a c a STOP
+a a c STOP
+c a STOP
+a STOP
+c a a c a a a a STOP
+a c c a a a c STOP
+a c a a a a c a STOP
+a STOP
+a a c a a a a c a c STOP
+a c a a a a a a STOP
+a c a c a c a STOP
+c a c a a STOP
+a a c STOP
+a c c STOP
+c c a a c a c a STOP
+c a c STOP
+c c a a STOP
+a a STOP
+c c a a a a a c c a STOP
+a c c c a c a c a STOP
+a STOP
+c STOP
+a a a a a c a c a STOP
+c c c a a a c c STOP
+c STOP
+c c a STOP
+a a a STOP
+a a a STOP
+a a a STOP
+a c a a c c a a c c STOP
+c c c a a a a STOP
+a c c STOP
+c c c a c a c a a c STOP
+c a c a a c c STOP
+a a c a a a a a a c STOP
+a a a a STOP
+a c c c a a a a c a STOP
+c a c c a a a a STOP
+a c a a STOP
+c a c c STOP
+c a a a a a a c STOP
+c a STOP
+a a a a c c a c a a STOP
+c a a c a a a c c c STOP
+a c a a STOP
+c c c a a c a c a STOP
+c STOP
+a a STOP
+a a a c a a a c a STOP
+a a a c a a c c STOP
+a a c c c c a a a STOP
+a a a a a c a STOP
+c c c c c c c c STOP
+a a c a a a a STOP
+a a c a c a STOP
+c a STOP
+c a STOP
+a a a a a c a c STOP
+c STOP
+a c c a c a STOP
+c c c c c a STOP
+a a c STOP
+a c a a c STOP
+c c STOP
+c c STOP
+c c a c c a c STOP
+a c c a c c a a a c STOP
+c c c a STOP
+c a c STOP
+c a c c c a a STOP
+c c c a a a a a c c STOP
+a c c STOP
+c c c c a c a c c a STOP
+a a c a STOP
+a c a c a c a a STOP
+a a c STOP
+c a a STOP
+c a c a a c c STOP
+c c c STOP
+a c c a STOP
+c a c a c c c a c a STOP
+a STOP
+a c a STOP
+a a c a c STOP
+c a c c c c a STOP
+a c a c c a a STOP
+c a c c c c STOP
+c c c a a c STOP
+c a c c STOP
+a c c a a a c STOP
+a a c a STOP
+c c c c c a a STOP
+a a c a a STOP
+a a a c a c a c a a STOP
+a a a c c c c a a STOP
+c c a c c STOP
+a c c STOP
+c a a a c a a a STOP
+c c c c a a a STOP
+c a c a a STOP
+a a c c a STOP
+c c STOP
+a c c c a a c STOP
+c a a a c c c STOP
+a a a c c a c a STOP
+c c c a a c c c STOP
+a a c c a STOP
+c c c a c STOP
+a c c STOP
+c a STOP
+a STOP
+a c STOP
+a a a STOP
+c a c c a STOP
+a c c c c a c c STOP
+a a c c STOP
+a c a c c STOP
+a c c a c c a a STOP
+c a c c c c c a c a STOP
+c c a c c a STOP
+a a a a c c STOP
+c c a a a a c a STOP
+a a c a c c a a c STOP
+c c a c a STOP
+a c c c c a a c a a STOP
+a c a a c c c STOP
+a c c a STOP
+c a c c a c c STOP
+c a c c c a a STOP
+c a a a a a a a STOP
+a c c c STOP
+a a STOP
+a STOP
+c STOP
+c a a c a c c c c a STOP
+c a c c c c c c a c STOP
+c a c a STOP
+a c a a a c a a a STOP
+a c STOP
+a a c c a c STOP
+a a c a a c c a STOP
+c a c c a c a STOP
+c a c a c c c a c a STOP
+c a c a a a STOP
+a c c a c c c c STOP
+c c STOP
+a a a c a a c c c STOP
+a c c c c a a c a c STOP
+a c a c a a a STOP
+a STOP
+a a a STOP
+c a a a STOP
+a a a c a c c c STOP
+c c c c c c STOP
+c c c a c c a a c a STOP
+a a a c c c c c c a STOP
+c c a c a a a STOP
+a a STOP
+c a c c a a c c STOP
+c c a STOP
+c a a a c c c c c c STOP
+a STOP
+c c c a a c c STOP
+a a a c a STOP
+c c a c c c a a a STOP
+c a c a STOP
+c STOP
+a a a c a a STOP
+a STOP
+c c a a c a c STOP
+c c c c c STOP
+c a STOP
+a c c STOP
+c a c a a a a a a a STOP
+c STOP
+c a c a a c STOP
+a a c a c a c c c a STOP
+c a a c c c a a STOP
+a a a a STOP
+a c a c a c a STOP
+a STOP
+c STOP
+c c a a STOP
+c STOP
+a a c a c c a c c c STOP
+c STOP
+c STOP
+c a a a c c a a a a STOP
+a a c a c STOP
+c c a c c c STOP
+a a c a c c STOP
+c a c a STOP
+a a c STOP
+a a c STOP
+a a a a a c c STOP
+a c c a STOP
+a a STOP
+c c c c STOP
+c STOP
+a c STOP
+a a a STOP
+a a STOP
+c c c c STOP
+c c STOP
+a STOP
+a c a a a a c c c STOP
+a STOP
+a c STOP
+a a c c a a a STOP
+c a a a a c a a a a STOP
+a a c c a a c a c STOP
+c a c c a c c STOP
+c c c c a a c a c a STOP
+c a a c a STOP
+a a a a a c STOP
+a a c c a c c c a a STOP
+c a c a c c a c c STOP
+c a a a c STOP
+a c a c a c a c a c STOP
+c a a a c a c c c c STOP
+a c c STOP
+c c c a c a c a a STOP
+c a a a a c c STOP
+c a a STOP
+a STOP
+a a a c a STOP
+c c c a a a a c STOP
+c c c a c c a c STOP
+a c a a a c c STOP
+a STOP
+c a c c STOP
+a a STOP
+a c c a c a a STOP
+c a a c c c c c STOP
+a a a c a a a c a STOP
+a a c c c c c STOP
+a a c a a c a a a c STOP
+c STOP
+a c STOP
+a c c c c a STOP
+a c a c a STOP
+a a c a a a a c STOP
+a a a c c c a STOP
+c c STOP
+a a STOP
+c c c STOP
+c c c c c a c c STOP
+a c a a a c a STOP
+a c STOP
+c c a c a c c a STOP
+a a c a c c a c c STOP
+c c a c a a c a c c STOP
+a a c c a c a a a c STOP
+c c c c c STOP
+a a a a a c a c a STOP
+c a a STOP
+c c a c a c a a c STOP
+c a c c a c c STOP
+a a c a c STOP
+a a a c c a STOP
+c c c c c a c STOP
+a a a a a a a c STOP
+c c c c STOP
+c c c a a c c a STOP
+c c c a a a c c a STOP
+a a a a STOP
+c c c c c a STOP
+c STOP
+a c a a a STOP
+c a a c c a a c c c STOP
+c a c a a c c STOP
+a c a a a a a a a c STOP
+c c a a a a c c c STOP
+c c a c STOP
+c a c a c c c a c c STOP
+a c STOP
+a a a a a c STOP
+c a a a c c c a c c STOP
+a c STOP
+c c c c c a STOP
+c c a c a a c a a STOP
+c c c a c c STOP
+a a a c a a a a STOP
+a a a c c c STOP
+a a a c a a a c STOP
+a c a c c a STOP
+c STOP
+a a c c STOP
+c c c a c c c c a STOP
+c a a a c c c STOP
+c a a a a a a c c a STOP
+a a a c a c c c a a STOP
+c c a a c a a a c c STOP
+c c a a c STOP
+c STOP
+c a a a STOP
+c a c a c c a c STOP
+a STOP
+a c c c a a c STOP
+c c a a a c STOP
+c STOP
+c a a a c STOP
+c c c a c a c STOP
+a a c STOP
+c c c c a STOP
+a STOP
+a a c STOP
+a c c c c a a a c STOP
+a a a c c a a c a a STOP
+c a c c c c c STOP
+a c c a a c STOP
+c STOP
+a c c STOP
+a c c STOP
+c c c STOP
+a STOP
+c a c a c STOP
+c STOP
+a a a a c a a a c STOP
+a c a STOP
+a STOP
+a a a c c a STOP
+a c a a a a c a c c STOP
+c c c a c c a STOP
+a a c a a STOP
+a c a a a STOP
+c a a c STOP
+c c a c a STOP
+c c c c a c c a c c STOP
+a a a STOP
+c c c a STOP
+a a c a c c c c STOP
+a c c c a c c a a STOP
+a c a a a a a a STOP
+c a a a c a a a STOP
+c a c a c a a STOP
+c c a a c a c a c STOP
+c a a a c c a a a STOP
+c c a c c a STOP
+c a c c c c c STOP
+c c a a a a a STOP
+a c a c a STOP
+a c a c a c a a a STOP
+c a c c c c a c c STOP
+a a c a c c a c a a STOP
+c a a STOP
+c c a c c c a STOP
+c a a STOP
+a STOP
+c c c a STOP
