@@ -5,12 +5,14 @@ import string
 import numpy as np
 
 FILE_NAMES = [
-    'austen.txt', 'shakespeare.txt', 'dostoevsky.txt',
-    'aba.txt', 'aca.txt'
+    #'austen.txt', 'shakespeare.txt', 'dostoevsky.txt',
+    #'aba.txt', 'aca.txt'
+    'sentiment/sentiment.0.txt', 'sentiment/sentiment.1.txt'
 ]
-KEEP_WORDS = 10000
+KEEP_WORDS = 5000
 INV = '*???*'
 UNK = '*unk*'
+EOS = '</s>'
 
 def words(fname):
     with open(fname) as fh:
@@ -19,6 +21,7 @@ def words(fname):
                 str.maketrans('', '', string.punctuation))
             for word in clean.split():
                 yield word
+            yield EOS
 
 counter = Counter()
 for fname in FILE_NAMES:
